@@ -3,6 +3,7 @@
 Environment Setup
 
 1 ) Need to install jira module
+
 2 ) Need to create rsa.pem key and share it with your jira admins to create app link ( <app_link_name> ) at server side.
 
 3 ) Once done from jira admin side then open anaconda prompt
