@@ -26,7 +26,7 @@ Environment Setup
  
  'consumer_key': '<app_link_name>',
  
- 'key_cert': <Contents of your rsa.pem> }
+ 'key_cert':  <Contents of your rsa.pem> }
 
   **Thats it your are good to go. **
 
