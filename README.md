@@ -21,8 +21,11 @@ Environment Setup
 6 ) Jirashell will be open then type **oauth** in to get below creds.
 
 {'access_token': 'xxxxxxxxxxxxxxxxxxxxxxxxxx',
+
  'access_token_secret': 'xxxxxxxxxxxxxxxxxxxxxxxx',
+ 
  'consumer_key': '<app_link_name>',
+ 
  'key_cert': <Contents of your rsa.pem> }
 
   **Thats it your are good to go. **
