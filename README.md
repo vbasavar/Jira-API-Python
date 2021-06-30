@@ -1,8 +1,12 @@
 # Jira-API-Python
 
+Here are the steps to setup and interact with Jira using Python through oAuth authentication.
+
 Environment Setup
 
 1 ) Need to install jira module
+
+    pip install jira
 
 2 ) Need to create rsa.pem key and share it with your jira admins to create app link ( <app_link_name> ) at server side.
 
