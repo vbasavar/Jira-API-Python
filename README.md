@@ -8,9 +8,13 @@ Environment Setup
 
 3 ) Once done from jira admin side then open anaconda prompt
 
-4 ) Run : jirashell --server https://<your_jira_url> --consumer-key <app_link_name> --key-cert <rsa.pem> --oauth-dance
+4 ) Run the below
+    
+    jirashell --server https://<your_jira_url> --consumer-key <app_link_name> --key-cert <rsa.pem> --oauth-dance
+   
+5 ) You wil be redirected to <<your_jira url> for access confirmation. Say yes.
 
-5 ) Jirashell will be open then type oauth in to get below creds.
+6 ) Jirashell will be open then type **oauth** in to get below creds.
 
 {'access_token': 'xxxxxxxxxxxxxxxxxxxxxxxxxx',
  'access_token_secret': 'xxxxxxxxxxxxxxxxxxxxxxxx',
